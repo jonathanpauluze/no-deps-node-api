@@ -1,0 +1,8 @@
+{
+  "name": "no-deps-node-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jonathan Pauluze <jonathanpauluze@gmail.com>",
+  "license": "MIT",
+  "type": "module"
+}
